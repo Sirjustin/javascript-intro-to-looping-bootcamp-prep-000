@@ -1,0 +1,4 @@
+function doWhileLoop(array){
+
+  
+}
